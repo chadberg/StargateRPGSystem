@@ -17,7 +17,7 @@
   "compatibility": {
     "minimum": "10.291",
     "verified": 10,
-    "maximum": 10
+    "maximum": 14
   },
   "minimumCoreVersion": "10",
   "scripts": [
