@@ -39,6 +39,6 @@
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": null,
   "url": "https://github.com/Hertzila/StargateRPGSystem",
-  "manifest": "https://github.com/chris-arsenault/StargateRPGSystem/blob/master/system.json,
+  "manifest": "https://github.com/chris-arsenault/StargateRPGSystem/blob/master/system.json",
   "download": "https://github.com/Hertzila/StargateRPGSystem/releases/download/v1.7.5/system.zip"
 }
