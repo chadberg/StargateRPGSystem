@@ -43,11 +43,15 @@ export function registerHandlebarsHelpersSG() {
     });
 
     Handlebars.registerHelper('isFeat', function (val) {
-        return val.type !== "feat";
+        return val === "feat";
     });
 
     Handlebars.registerHelper('hasDetails', function (val) {
         return val.type.includes(["armor","weapon","equip"]);
+    });
+
+    Handlebars.registerHelper('isNotInnate', function (val) {
+        return val.includes(["armor","weapon","equip"]);
     });
 
     Handlebars.registerHelper('consumesAmmo', function (item) {
