@@ -209,7 +209,7 @@
   },
 
   "Item": {
-    "types": [ "weapon", "armor", "equip" ],
+    "types": [ "weapon", "armor", "equip", "feat" ],
     "templates": {
       "itemDescription": {
         "description": "",
