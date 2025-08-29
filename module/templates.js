@@ -25,7 +25,7 @@ export const preloadHandlebarsTemplates = async function () {
 		"systems/sgrpg/templates/sheets/parts/actor-basekit-inventory.hbs",
 		"systems/sgrpg/templates/sheets/parts/actor-bulk-progress.hbs",
 		"systems/sgrpg/templates/sheets/parts/actor-feat-progress.hbs",
-		"systems/sgrpg/templates/sheets/parts/actor-racefeatures-inventory.hbs",
+		"systems/sgrpg/templates/sheets/parts/actor-racefeatures-inventory.hbs"
 	]);
 };
 
