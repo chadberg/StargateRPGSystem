@@ -31,10 +31,10 @@
   "languages": [],
   "socket": false,
   "initiative": "1d20 + @initiative",
-  "grid": [
+  "grid": {
     "distance": 1,
     "units": "m"
-  ],
+  },
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": null,
   "url": "https://github.com/Hertzila/StargateRPGSystem",
