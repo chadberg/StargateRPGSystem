@@ -1,10 +1,8 @@
 {
   "id": "sgrpg",
-  "name": "sgrpg",
   "title": "Stargate RPG",
   "description": "System for Stargate RPG created by Wyvern Gaming, https://stargatetherpg.com/",
   "version": "1.9.0",
-  "templateVersion": 10,
   "authors": [
     {
       "name": "Filip Sádovský"
@@ -15,11 +13,10 @@
     }
   ],
   "compatibility": {
-    "minimum": "10.291",
-    "verified": 10,
+    "minimum": "12",
+    "verified": 13,
     "maximum": 14
   },
-  "minimumCoreVersion": "10",
   "scripts": [
   ],
   "esmodules": [
@@ -34,8 +31,8 @@
   "languages": [],
   "socket": false,
   "initiative": "1d20 + @initiative",
-  "gridDistance": 1,
-  "gridUnits": "m",
+  "grid.distance": 1,
+  "grid.units": "m",
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": null,
   "url": "https://github.com/Hertzila/StargateRPGSystem",
