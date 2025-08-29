@@ -33,7 +33,7 @@
   "initiative": "1d20 + @initiative",
   "grid": [
     "distance": 1,
-    "units": "m",
+    "units": "m"
   ],
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": null,
